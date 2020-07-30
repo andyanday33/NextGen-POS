@@ -1,0 +1,7 @@
+1,3,50,Somon Baligi
+2,2,30,Raki
+3,2,20,Bira
+4,3,7,Milka Cikolata
+5,1,11,Redbull
+6,1,3,Coca Cola
+7,3,5,Cikolatali Gofret
