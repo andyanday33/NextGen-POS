@@ -5,9 +5,11 @@
 - Includes tax-calculating (general and by item) and applying discount with different types of strategies.
 ## CustomerDiscounts.txt
 ### This txt holds discounts for vip customers
-- Day,Discount_Amount => Format on everyline which implies DISCOUNT_AMOUNT amount of discount will be applied on DAY for vip customers
+- Day,Discount_Amount => Format on every line which implies DISCOUNT_AMOUNT% amount of discount will be applied on DAY for vip customers.
 
 ## Customers.txt
 ### This txt holds SSN's of vip customers
 
-## A
+## Item_discounts.txt
+### This txt holds item based discounts
+- Item_name,Discount_Amount => Format on every line which implies DISCOUNT_AMOUNT% amount of discount will be applied on ITEM_NAME.
