@@ -13,3 +13,8 @@
 ## Item_discounts.txt
 ### This txt holds item based discounts
 - Item_name,Discount_Amount => Format on every line which implies DISCOUNT_AMOUNT% amount of discount will be applied on ITEM_NAME.
+
+## Descriptions.txt
+### This txt holds id, type, price and name for each item
+- Item_id,Item_type,Price,Item_name => Format on every line. Type = { 1:Non-Alcoholic Beverage, 2:Alcoholic Beverage, 3:Food}
+- Item_id must be unique.
