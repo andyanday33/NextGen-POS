@@ -3,3 +3,6 @@
 - Classes and relationships' design matches GoF Patterns 80/100
 - Includes handwritten UI (If you wanna change something you must add it to code itself, you can't use drag-drop system that your IDE offers)
 - Includes tax-calculating (general and by item) and applying discount with different types of strategies.
+## CustomerDiscounts.txt
+### This txt holds discounts for vip customers
+- Day,Discount_Amount => Format on everyline which implies <t>Discount_Amount</t> amount of discount will be applied on <t>Day</t> for vip customers
