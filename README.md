@@ -6,3 +6,8 @@
 ## CustomerDiscounts.txt
 ### This txt holds discounts for vip customers
 - Day,Discount_Amount => Format on everyline which implies DISCOUNT_AMOUNT amount of discount will be applied on DAY for vip customers
+
+## Customers.txt
+### This txt holds SSN's of vip customers
+
+## A
